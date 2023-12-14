@@ -2,4 +2,4 @@
 
 ### My Projects
 
-[Connected points](https://rw610.github.io/canvas/)
+#### [Connected points](https://rw610.github.io/canvas/)
