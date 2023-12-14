@@ -1,6 +1,6 @@
 # Hi!
 
-![](https://media.giphy.com/media/xTiTnIdzlyuQ7OX56g/giphy.gif)
+![](https://media.giphy.com/media/3oEduZHK9DOK3jXhlK/giphy.gif)
 
 ### My Projects
 
