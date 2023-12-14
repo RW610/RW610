@@ -1,8 +1,9 @@
 # Hi!
 
-<div align="center" width='50%'>
-  <a href="https://media.giphy.com/media/3oEduZHK9DOK3jXhlK/giphy.gif">
+<div style="align: center;">
+    <img src="https://media.giphy.com/media/3oEduZHK9DOK3jXhlK/giphy.gif" width="50%" alt="GIF">
 </div>
+
 
 
 
