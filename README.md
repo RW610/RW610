@@ -9,4 +9,4 @@
   - ###### [Mandala](https://rw610.github.io/mandala/)
   - ###### [Connected points](https://rw610.github.io/canvas/)
 
-![](https://i.gifer.com/7sYl.gif)
+![](./gif/polygon.gif)
