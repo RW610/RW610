@@ -3,7 +3,6 @@
 <div style="align: center;">
     <!--<img src="https://media.giphy.com/media/l41Yt5ljkUiMfUHHW/giphy.gif" style="width: 50%; display: block; margin: 0 auto;" alt="GIF">-->
     <img src="gif/polygon.gif" style="width: 50%; display: block; margin: 0 auto;" alt="GIF">
-    
 </div>
 
 ### My affairs
