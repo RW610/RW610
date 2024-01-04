@@ -8,3 +8,4 @@
 ### My affairs
   - ###### [Mandala](https://rw610.github.io/mandala/)
   - ###### [Connected points](https://rw610.github.io/canvas/)
+  - ###### [minimalclock](https://rw610.github.io/minimalclock/)
