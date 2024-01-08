@@ -6,7 +6,7 @@
 </div>
 
 ### My affairs
-  - ###### [Mandala](https://rw610.github.io/mandala/)
-  - ###### [Connected points](https://rw610.github.io/canvas/)
-  - ###### [Minimalclock](https://rw610.github.io/minimalclock/)
   - ###### [Avatar-Generator](https://github.com/RW610/Avatar-Generator)
+  - ###### [Minimalclock](https://rw610.github.io/minimalclock/)
+  - ###### [Connected points](https://rw610.github.io/canvas/)
+  - ###### [Mandala](https://rw610.github.io/mandala/)
