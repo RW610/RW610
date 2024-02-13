@@ -5,7 +5,7 @@
     <img src="gif/polygon.gif" style="width: 50%; display: block; margin: 0 auto;" alt="GIF">
 </div>
 
-### My affairs
+### Works
   - ###### [Avatar-Generator](https://github.com/RW610/Avatar-Generator)
   - ###### [Minimalclock](https://rw610.github.io/minimalclock/)
   - ###### [Connected points](https://rw610.github.io/canvas/)
